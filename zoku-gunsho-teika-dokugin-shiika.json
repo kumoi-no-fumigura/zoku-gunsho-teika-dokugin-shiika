@@ -642,6 +642,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 9,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-teika-dokugin-shiika",
   "work": "定家卿独吟詩歌",
@@ -654,7 +658,7 @@
   "blocks": 9,
   "chars": 2810,
   "poems": 34,
-  "yaku": 0,
+  "yaku": 9,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T09:54:08+09:00"
